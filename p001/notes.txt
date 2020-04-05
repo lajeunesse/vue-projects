@@ -1,0 +1,1 @@
+Use curl 'https://openlibrary.org/api/books?bibkeys=ISBN:9780980200447&jscmd=data&format=json' to get data about a book
